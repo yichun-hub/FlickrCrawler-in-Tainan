@@ -8,6 +8,10 @@ Origin source code: https://github.com/rafiag/Flickr-Data-Mining
 ## Topic:
 Using EXIF information of Flickr photos to analyze potential/main tourist hot spots in Tainan
 
+Flowchart
+
+![image](https://github.com/yichun-hub/FlickrCrawler-in-Tainan/blob/main/flowchart.png)
+
 ## 1. Motivation
 Recently, with the rapid rise of usage in Internet and cloud services, more and more people take advantage of cloud album to record their daily lives or travels. We hope to make use of online cloud album Flickr to conduct analysis to find out the potential tourism hot spots in Tainan county and compare it to different datasets from the government open data.
 
