@@ -1,6 +1,8 @@
 # FlickrCrawler-in-Tainan
 Spatial Statistic final project
+
 Origin source code: https://github.com/rafiag/Flickr-Data-Mining
+
 `Clustering.ipynb` `FlickrCrawler.ipynb`
 
 ## Topic:
@@ -29,4 +31,4 @@ Recently, with the rapid rise of usage in Internet and cloud services, more and 
 ![image](https://github.com/yichun-hub/FlickrCrawler-in-Tainan/blob/main/DBSCAN2%20(0.02%2C%2010)_1.png)
 
 ## Potential Tourist Attraction
-![image]()
+![image](https://github.com/yichun-hub/FlickrCrawler-in-Tainan/blob/main/potential%20tourist%20attraction.png)
